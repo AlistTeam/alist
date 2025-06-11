@@ -11,7 +11,8 @@ type Addition struct {
 	IsSharepoint bool   `json:"is_sharepoint"`
 	ClientID     string `json:"client_id" required:"true"`
 	ClientSecret string `json:"client_secret" required:"true"`
-	RedirectUri  string `json:"redirect_uri" required:"true" default:"https://alist.nn.ci/tool/onedrive/callback"`
+	//RedirectUri  string `json:"redirect_uri" required:"true" default:"https://alist.nn.ci/tool/onedrive/callback"`
+	RedirectUri  string `json:"redirect_uri" required:"true" default:"原来的token api"`
 	RefreshToken string `json:"refresh_token" required:"true"`
 	SiteId       string `json:"site_id"`
 	ChunkSize    int64  `json:"chunk_size" type:"number" default:"5"`
