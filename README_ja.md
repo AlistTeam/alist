@@ -98,11 +98,11 @@
 
 ## ドキュメント
 
-<https://alist.nn.ci/>
+<https://alistteam.github.io/docs/> (temporally)
 
 ## デモ
 
-<https://al.nn.ci>
+N/A
 
 ## ディスカッション
 

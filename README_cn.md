@@ -97,11 +97,11 @@
 
 ## 文档
 
-<https://alist.nn.ci/zh/>
+<https://alistteam.github.io/docs/> (临时)
 
 ## Demo
 
-<https://al.nn.ci>
+N/A
 
 ## 讨论
 
