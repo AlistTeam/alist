@@ -1,4 +1,4 @@
-name: release_docker
+name: release_docker_ghcr
 
 on:
   push:
